@@ -361,5 +361,115 @@
         "album": "Past Masters (Vols. 1 & 2 / Remastered)",
         "numero_de_pista": "15/15",
         "Año": "1970"
+    },
+    {
+        "archivo_musica": "Albums/198274433_1.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Pop/General",
+        "titulo": "Imagine (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "1/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_2.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "Crippled Inside (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "2/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_3.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "Jealous Guy (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "3/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_4.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "It's So Hard (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "4/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_5.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "I Don't Wanna Be A Soldier Mama (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "5/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_6.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "Gimme Some Truth (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "6/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_7.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "Oh My Love (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "7/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_8.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "How Do You Sleep? (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "8/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_9.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "How? (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "9/10",
+        "Año": "1971"
+    },
+    {
+        "archivo_musica": "Albums/198274433_10.flac",
+        "descripcion": "198274433",
+        "imagen": "Albums/198274433.jpg",
+        "genero": "Rock/General",
+        "titulo": "Oh Yoko! (Remastered 2010)",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "numero_de_pista": "10/10",
+        "Año": "1971"
     }
 ]
